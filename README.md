@@ -143,28 +143,17 @@ Trader-Sentiment-Analysis/
 ### 1. Clone Repository
 git clone https://github.com/your-username/Trader-Sentiment-Analysis.git
 
-shell
-Copy code
-
 ### 2. Install Dependencies
 pip install pandas numpy matplotlib scikit-learn streamlit jupyter
-
-mathematica
-Copy code
 
 ### 3. Run Notebook
 Open:
 Trader_Sentiment_Analysis_Final.ipynb
 
-python
-Copy code
 Run all cells.
 
 ### 4. Run Streamlit Dashboard
 streamlit run dashboard.py
-
-yaml
-Copy code
 
 ---
 
