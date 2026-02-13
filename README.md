@@ -135,3 +135,63 @@ Trader-Sentiment-Analysis/
 │   ├ trades_per_day.png
 │   └ dashboard_preview.png
 ```
+
+---
+
+## How to Run the Project
+
+### 1. Clone Repository
+git clone https://github.com/your-username/Trader-Sentiment-Analysis.git
+
+shell
+Copy code
+
+### 2. Install Dependencies
+pip install pandas numpy matplotlib scikit-learn streamlit jupyter
+
+mathematica
+Copy code
+
+### 3. Run Notebook
+Open:
+Trader_Sentiment_Analysis_Final.ipynb
+
+python
+Copy code
+Run all cells.
+
+### 4. Run Streamlit Dashboard
+streamlit run dashboard.py
+
+yaml
+Copy code
+
+---
+
+## Limitations
+- Leverage and margin analysis was not possible due to missing fields.  
+- Analysis is based on historical static data and does not include real-time market feeds.  
+- External macroeconomic factors were not included in the analysis.  
+
+---
+
+## Future Improvements
+- Integrate real-time sentiment APIs  
+- Build predictive models for trader profitability  
+- Deploy dashboard to cloud (Streamlit Cloud / AWS)  
+- Add advanced time-series forecasting models  
+
+---
+
+## Outputs
+Project outputs include:
+- Sentiment vs PnL visualizations  
+- Trading activity trend charts  
+- Win rate summary tables  
+- Interactive Streamlit dashboard  
+
+---
+
+## Author
+Deepanti Poonekar  
+Data Analytics and Machine Learning Enthusiast
